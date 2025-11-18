@@ -54,8 +54,8 @@ importers:
         specifier: 4.17.4
         version: 4.17.4
       marked:
-        specifier: 0.3.6
-        version: 0.3.6
+        specifier: 0.8.2
+        version: 0.8.2
       mem:
         specifier: 4.0.0
         version: 4.0.0
@@ -1101,8 +1101,9 @@ packages:
     resolution: {integrity: sha512-4y7uGv8bd2WdM9vpQsiQNo41Ln1NvhvDRuVt0k2JZQ+ezN2uaQes7lZeZ+QQUHOLQAtDaBJ+7wCbi+ab/KFs+w==}
     engines: {node: '>=0.10.0'}
 
-  marked@0.3.6:
-    resolution: {integrity: sha512-gE75oL01YUIxaBqgeGBuNNd8u0L+H1N6xeW/s+O57o5EC31aPX1M1lD4W9eGyHFJGTwOgMkqzYODZ4yp5w20gQ==}
+  marked@0.8.2:
+    resolution: {integrity: sha512-EGwzEeCcLniFX51DhTpmTom+dSA/MG/OBUDjnWtHbEnjAH180VzUeAw+oE4+Zv+CoYBWyRlYOTR0N8SO9R1PVw==}
+    engines: {node: '>= 8.16.2'}
     hasBin: true
 
   math-intrinsics@1.1.0:
@@ -2520,7 +2521,7 @@ snapshots:
     dependencies:
       object-visit: 1.0.1
 
-  marked@0.3.6: {}
+  marked@0.8.2: {}
 
   math-intrinsics@1.1.0: {}
 
