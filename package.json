@@ -15,7 +15,7 @@
   "dependencies": {
     "ai": "^3.4.32",
     "@ai-sdk/openai": "^0.0.66",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "moment": "2.18.1",
     "serialize-javascript": "2.1.1",
     "node-serialize": "0.0.4",
