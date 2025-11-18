@@ -26,7 +26,7 @@
     "debug": "2.6.8",
     "request": "2.81.0",
     "growl": "1.9.2",
-    "handlebars": "4.0.5",
+    "handlebars": "4.7.8",
     "tar": "2.2.1",
     "fstream": "1.0.11",
     "hoek": "4.2.0",
