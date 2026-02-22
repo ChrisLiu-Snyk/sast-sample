@@ -24,7 +24,7 @@
     "minimist": "0.0.8",
     "yargs-parser": "5.0.0",
     "debug": "2.6.8",
-    "request": "2.81.0",
+    "request": "2.88.2",
     "growl": "1.9.2",
     "handlebars": "4.0.5",
     "tar": "2.2.1",
